@@ -1,0 +1,147 @@
+body {
+  position: absolute;
+  margin: 0px;
+  height: 1000px;
+}
+#divbar {
+  position: fixed;
+  background-color: peru;
+  width: 99.8%;
+  height: 4rem;
+  z-index: 20;
+  margin-top: -6.3%;
+}
+
+#divimg1 {
+  height: 3.8rem;
+
+  z-index: 20;
+}
+#img1 {
+  margin: 0px;
+  height: 4rem;
+
+  z-index: 20;
+}
+
+#divbar2 {
+  text-align: left;
+  position: absolute;
+  margin-top: -4.5%;
+  width: 50%;
+  margin-left: 50%;
+  height: 80%;
+  z-index: 20;
+}
+#barh1 {
+  margin-left: 35px;
+  width: 10%;
+  margin-top: 0px;
+  padding-top: 20px;
+  z-index: 20;
+}
+#barh2 {
+  position: absolute;
+  margin-top: -9%;
+  padding-top: 20px;
+  margin-left: 25%;
+  width: 10%;
+
+  z-index: 20;
+}
+
+#abt {
+  position: absolute;
+  margin-left: 41.5%;
+  margin-top: -9%;
+  width: 10.9%;
+  height: 110%;
+  background-color: peru;
+  border: none;
+  font-size: large;
+  z-index: 20;
+}
+#barh3 {
+  position: absolute;
+  margin-left: 60%;
+  margin-top: -9%;
+  padding-top: 20px;
+  width: 18%;
+
+  z-index: 20;
+}
+#barh4 {
+  position: absolute;
+  position: right;
+  margin-left: 85%;
+  margin-top: -9%;
+  padding-top: 20px;
+  width: 10%;
+
+  z-index: 20;
+}
+#text {
+  width: 40%;
+  text-align: left;
+  margin-left: 5%;
+}
+#photo {
+  margin-top: -1%;
+  text-align: right;
+  width: 50%;
+  z-index: 9;
+}
+.para {
+  margin-top: 33px;
+}
+#img2 {
+  position: absolute;
+  margin-top: -50.3%;
+}
+#div2 {
+  position: relative;
+  margin-top: 85px;
+}
+#logo {
+  position: absolute;
+  width: 30%;
+  margin-left: 55.5%;
+  z-index: 8;
+  margin-top: -12.6%;
+}
+#div3 {
+  margin-top: 40px;
+  background-color: grey;
+  padding: 3rem;
+  text-align: center;
+  height: 100px;
+}
+.btn {
+  font-size: large;
+  padding: 13px;
+  margin: 25px;
+  border-radius: 5px;
+  border: none;
+}
+#div4 {
+  text-align: center;
+  background-color: cadetblue;
+}
+#hfoot {
+  margin-top: -20px;
+  width: 44%;
+  margin-left: 25%;
+  padding: 30px;
+  color: wheat;
+  line-height: 40px;
+  font-size: medium;
+}
+
+.nav:hover {
+  border-top: 3px solid darkcyan;
+  color: darkgrey;
+}
+
+button:hover {
+  color: darkgrey;
+}
